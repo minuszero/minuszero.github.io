@@ -1,2 +1,0 @@
-- name: Minify Action
-  uses: anthonyftwang/minify-action@v1.0.0
